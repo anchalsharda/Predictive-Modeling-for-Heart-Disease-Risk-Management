@@ -1,26 +1,37 @@
-🔍 Project Overview:
-Developed a predictive model for Kaiser Permanente using the UCI Heart Disease Dataset to identify high-risk individuals for heart disease. The objective was to help Kaiser Permanente adjust insurance premiums, reduce future medical claims, and offer personalized wellness programs for targeted interventions.
-🧠 Key Responsibilities & Skills Demonstrated:
-Data Cleaning & Preparation:
-Preprocessed the UCI Heart Disease Dataset by handling missing values, encoding categorical variables, and standardizing the dataset to ensure consistent and clean data for analysis.
-Performed exploratory data analysis (EDA) to identify key features and correlations between predictors (e.g., age, sex, cholesterol levels) and the target variable (heart disease presence).
-Model Development & Evaluation:
-Implemented Logistic Regression to predict the likelihood of heart disease based on demographic and medical data.
-Split the dataset into training and test sets, ensuring an unbiased evaluation of the model's performance.
-Evaluated model performance using key metrics such as accuracy, precision, recall, and the ROC curve to assess its predictive ability.
-Business Analysis & Insights:
-Identified the most significant predictors of heart disease risk, providing insights for adjusting insurance premiums and focusing on preventive care.
-Delivered actionable insights on how Kaiser Permanente could use predictive analytics to improve customer engagement and resource allocation.
-Model Optimization & Tuning:
-Tuned hyperparameters to optimize model performance and ensure accurate predictions.
-Applied cross-validation techniques to improve the robustness of the model and minimize overfitting.
-✅ Key Outcomes:
+**🔍 Project Overview:**
+
+Developed a logistic regression model using the UCI Heart Disease dataset to predict high-risk individuals for heart disease. The project incorporated a training/test data split and A/B testing to enhance model accuracy and validate results, helping Kaiser Permanente optimize insurance premiums and offer targeted wellness programs.
+
+**🧠 Key Responsibilities & Skills Demonstrated:**
+
+**Data Preprocessing & Cleaning:**
+
+Cleaned and preprocessed the UCI Heart Disease dataset to handle missing values, outliers, and standardize data types.
+Ensured proper feature selection by analyzing the significance of variables like age, sex, cholesterol levels, and blood pressure.
+
+**A/B Testing & Model Validation:**
+
+Performed A/B testing to compare the performance of different model configurations and features, ensuring the most effective combination for heart disease prediction.
+Validated model results on the testing set to ensure it generalizes well to unseen data.
+
+**Business Insights & Recommendations:**
+Identified high-risk individuals for heart disease and provided actionable recommendations for targeted wellness programs.
+Provided insights for adjusting insurance premiums based on risk levels and reducing future claims by promoting preventive care.
+
+**✅ Key Outcomes:**
 Developed a predictive logistic regression model to identify high-risk individuals for heart disease with high accuracy and precision.
 Provided Kaiser Permanente with a data-driven approach to adjust premiums, reduce claims, and implement targeted wellness programs.
 Delivered actionable insights into customer health risks, supporting strategic decisions in preventive care and risk management.
-💻 Tools Used:
-Python: Utilized Python libraries such as Pandas for data manipulation, Scikit-learn for logistic regression modeling, and Matplotlib/Seaborn for data visualization.
-Jupyter Notebook: For interactive data analysis, model development, and visualization.
+
+**💻 Tools Used:**
+
+*Python: Utilized Python libraries such as Pandas for data manipulation, Scikit-learn for logistic regression modeling, and Matplotlib/Seaborn for data visualization.
+*Jupyter Notebook: For interactive data analysis, model development, and visualization.
 NumPy & SciPy: Used for numerical operations and statistical analysis.
+
 Matplotlib/Seaborn: Created visualizations for exploratory data analysis and model evaluation metrics.
 #PredictiveModeling #HeartDisease #LogisticRegression #Python #DataScience #KaiserPermanente #HealthInsurance #PreventiveCare #DataDriven #CustomerEngagement #WellnessPrograms #RiskManagement #BusinessAnalytics #UCIHeartDiseaseDataset
+
+**Note:** This repository contains the analysis of pharmacy store performance. The dataset for this analysis is too large to be included directly in the repository. You can download the data from the following Google Drive link: 
+
+[Download Data] https://drive.google.com/drive/folders/1aYkqVosd-PWG6rjes3FwkcX6foCpAlCO?usp=sharing
